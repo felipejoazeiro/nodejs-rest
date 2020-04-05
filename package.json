@@ -19,9 +19,9 @@
   "author": "Felipe Joazeiro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/felipejoazeiro/Node.jseHTTP/issues"
+    "url": "https://github.com/felipejoazeiro/nodejs-rest.git/issues"
   },
-  "homepage": "https://github.com/felipejoazeiro/Node.jseHTTP#readme",
+  "homepage": "https://github.com/felipejoazeiro/nodejs-rest.git",
   "dependencies": {
     "consign": "^0.1.6",
     "express": "^4.17.1",
