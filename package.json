@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felipejoazeiro/Node.jseHTTP.git"
+    "url": "git+https://github.com/felipejoazeiro/nodejs-rest.git"
   },
   "keywords": [
     "gateway",
